@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("QUESTÃO 01");
+        System.out.println("QUESTÃO 02");
 
         System.out.println("Insira um número qualquer");
         int numero = sc.nextInt();
@@ -20,7 +20,7 @@ public class Main {
         System.out.println("\n");
         /*QUESTÃO 02*/
 
-        System.out.println("QUESTÃO 02");
+        System.out.println("QUESTÃO 05");
 
         String entrada = "Ola, mundo!";
         System.out.println("A string original é: " + entrada);
